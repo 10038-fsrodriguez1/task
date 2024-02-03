@@ -1,4 +1,5 @@
 // App.jsx
+import React from 'react';
 import { createClient } from '@supabase/supabase-js';
 import TaskList from './components/TaskList';
 import TaskForm from './components/TaskForm';
